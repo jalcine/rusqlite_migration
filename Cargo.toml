@@ -16,7 +16,7 @@ homepage = "https://cj.rs/rusqlite_migration"
 log = "0.4"
 
 [dependencies.rusqlite]
-version = "*"
+version = ">= 0.23"
 default-features = false
 features = []
 
